@@ -14,9 +14,7 @@ From there you can go to My Accounts-Services-AFS Workspace-Settings and you wil
 
 Now you can create your Workspace and increase its quota and also increase the quota of your home directory.
 
-{% hint style="info" %}
- Note that AFS is being phased out soon™ so at some point you will need to move all your work to EOS
-{% endhint %}
+Note that AFS is being phased out soon™ so at some point you will need to move all your work to EOS
 
 More info about AFS here:
 
